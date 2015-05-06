@@ -3,8 +3,7 @@ package exercise;
 public class Test {
 
 	public static void main(String[] args) {
-		ddd[] p = null ;
-		new Person().age=100;
+		System.out.println("hello world");
 	}
 	
 }
