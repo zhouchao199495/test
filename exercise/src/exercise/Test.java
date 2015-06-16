@@ -3,7 +3,7 @@ package exercise;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("hello2 world");
+		System.out.println("hello3 world");
 	}
 	
 }
